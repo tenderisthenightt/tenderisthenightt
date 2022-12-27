@@ -19,9 +19,9 @@
 - R Project
     - Project  : **[Repositories📙](https://github.com/tenderisthenightt/R-2nd-project)**
 - Machine Learning Project
-    - Project  : **[Repositories📒](https://github.com/tenderisthenightt/MachineLearning-3rd-project))**
+    - Project  : **[Repositories📒](https://github.com/tenderisthenightt/MachineLearning-3rd-project)**
 - Deep Learning Project 
-    - Project  : **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project))**
+    - Project  : **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project)**
 
 ### Toy Project
 
