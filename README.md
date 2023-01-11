@@ -8,15 +8,9 @@
 
 # Profile
 
-💻
-
-🎓
-
 📌 E-mail : tenderisthenightt@naver.com
 
 📰 Portfolio :
-
-### career
 
 ### Project
 - Basic Python Project
@@ -28,9 +22,7 @@
 - Deep Learning Project 
     - Project  : **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project)**
 
-### Toy Project
-
-### Social activity/education history
+### Activity/education history
 - domain knowledge
     - programming language
         - (Python) k-digital
