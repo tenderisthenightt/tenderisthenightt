@@ -37,7 +37,7 @@
         - Detectron2
 
 - Coding Test
--- Baekjoon Online Judge
+-- Solve coding problem in baekjoon online judge
     - **[Repositories📜](https://github.com/tenderisthenightt/Baekjoon)**
     
     
