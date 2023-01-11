@@ -1,5 +1,10 @@
 <!-- add banner plz -->
+
+![제목을 입력해주세요_-001](https://user-images.githubusercontent.com/120777172/211757136-f1ec4f86-ef6d-4d58-8cc8-854785d75efc.png)
+
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
+![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 
 # Profile
 
