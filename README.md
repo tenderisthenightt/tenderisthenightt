@@ -2,10 +2,6 @@
 
 ![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/120777172/211760197-2a6618fb-26f2-4352-b399-605a94271bf2.png)
 
-![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
-![SQLite](https://img.shields.io/badge/-sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-jupyter-%23FA0F00.svg?flat-square&logo=jupyter&logoColor=white)
 
 # Profile
 
@@ -43,9 +39,22 @@
 - Coding Test
 -- Baekjoon Online Judge
     - **[Repositories📜](https://github.com/tenderisthenightt/Baekjoon)**
+    
+    
+    
+ ✏ Tools :
+
+![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
+     <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=white" />
+    ![SQLite](https://img.shields.io/badge/-sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+  <img src="http://img.shields.io/badge/PyCharm-000000?style=round&logo=PyCharm&logoColor=white" />
+  <img src="http://img.shields.io/badge/VisualStudioCode-007ACC?style=round&logo=VSCode&logoColor=white" />
+  <img src="http://img.shields.io/badge/Atom-66595C?style=round&logo=Atom&logoColor=white" />
+    <img src="http://img.shields.io/badge/Anaconda-44A833?style=round&logo=Anaconda&logoColor=white" />
+    ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/-jupyter-%23FA0F00.svg?flat-square&logo=jupyter&logoColor=white)
 
 
 
-<!--
-**cooingcoding/cooingcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+
