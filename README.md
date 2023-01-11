@@ -1,6 +1,6 @@
 <!-- add banner plz -->
 
-![제목을 입력해주세요_-001 (1)](https://user-images.githubusercontent.com/120777172/211759788-8852571b-4735-4022-a268-47ce1e2441b2.png)
+![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/120777172/211760197-2a6618fb-26f2-4352-b399-605a94271bf2.png)
 
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
