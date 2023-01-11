@@ -39,7 +39,7 @@
     - DL : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
         - CNN
         - RNN
-        - YOLO
+        - YOLOv5
         - Detectron2
 
 - Coding Test
