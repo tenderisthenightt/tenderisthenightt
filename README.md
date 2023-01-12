@@ -52,6 +52,7 @@
   <img src="http://img.shields.io/badge/Atom-66595C?style=round&logo=Atom&logoColor=white" />
     <img src="http://img.shields.io/badge/Anaconda-44A833?style=round&logo=Anaconda&logoColor=white" />
     ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-%23FA0F00.svg?flat-square&logo=jupyter&logoColor=white)
 
 
