@@ -7,6 +7,8 @@
 
 📌 E-mail : tenderisthenightt@naver.com
 
+📌 Tistory : https://lionbehind.tistory.com
+
 📰 Portfolio :
 
 ### Project
