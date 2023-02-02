@@ -40,8 +40,6 @@
 
 - Coding Test
 -- Solve coding problem in baekjoon online judge
-    - **[Repositories📜](https://github.com/tenderisthenightt/Baekjoon)**
-    
     
     
  ✏ Tools :
@@ -56,8 +54,5 @@
     ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-%23FA0F00.svg?flat-square&logo=jupyter&logoColor=white)
-
-
-
 
 
