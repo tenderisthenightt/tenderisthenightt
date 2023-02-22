@@ -21,8 +21,8 @@
 - Deep Learning Project 
     - Project  : **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project)** 
 - Final Project 
-    - web : **[Repositories📘](https://github.com/tenderisthenightt/Final_Project_true_final.git)**
-    - test : **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
+    - 1 web : **[Repositories📘](https://github.com/tenderisthenightt/Final_Project_true_final.git)**
+    - 2 model : **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
 
 ### Activity/education history
 - domain knowledge
