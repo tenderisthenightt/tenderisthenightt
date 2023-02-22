@@ -19,7 +19,10 @@
 - Machine Learning Project
     - Project  : **[Repositories📒](https://github.com/tenderisthenightt/MachineLearning-3rd-project)**
 - Deep Learning Project 
-    - Project  : **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project)**
+    - Project  : **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project)** 
+- Final Project 
+    - web : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
+    - test : **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
 
 ### Activity/education history
 - domain knowledge
@@ -35,8 +38,6 @@
     - DL : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
         - YOLOv5
         - Detectron2
-    - Final Project web : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
-    - Final Project test : **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
     
 - Coding Test
 -- Solve coding problem in baekjoon online judge
