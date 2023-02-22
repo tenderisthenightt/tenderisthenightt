@@ -32,7 +32,7 @@
 
 ### personal learning
 
-- Python, Machine Learning, Deep Learning based deep learning
+- Python, Machine Learning, Deep Learning
     - Python : **[Repositories📘](https://github.com/tenderisthenightt/Learning_Python.git)**
     - ML : **[Repositories📘](https://github.com/tenderisthenightt/Learning_ML.git)**
     - DL : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
