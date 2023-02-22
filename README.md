@@ -36,8 +36,7 @@
     - Python : **[Repositories📘](https://github.com/tenderisthenightt/Learning_Python.git)**
     - ML : **[Repositories📘](https://github.com/tenderisthenightt/Learning_ML.git)**
     - DL : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
-        - YOLOv5
-        - Detectron2
+    
     
 - Coding Test
 -- Solve coding problem in baekjoon online judge
