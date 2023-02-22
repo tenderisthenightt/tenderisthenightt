@@ -33,11 +33,11 @@
     - Python : **[Repositories📘](https://github.com/tenderisthenightt/Learning_Python.git)**
     - ML : **[Repositories📘](https://github.com/tenderisthenightt/Learning_ML.git)**
     - DL : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
-        - CNN
-        - RNN
         - YOLOv5
         - Detectron2
-
+    - Final Project web : **[Repositories📘](https://github.com/tenderisthenightt/Learning_DL.git)**
+    - Final Project test : **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
+    
 - Coding Test
 -- Solve coding problem in baekjoon online judge
     
