@@ -13,16 +13,16 @@
 
 ### Project
 - Basic Python Project
-    - Project : **[Repositories📕](https://github.com/tenderisthenightt/Python-1st-project)**
+    - **[Repositories📕](https://github.com/tenderisthenightt/Python-1st-project)**
 - R Project
-    - Project  : **[Repositories📙](https://github.com/tenderisthenightt/R-2nd-project)**
+    - **[Repositories📙](https://github.com/tenderisthenightt/R-2nd-project)**
 - Machine Learning Project
-    - Project  : **[Repositories📒](https://github.com/tenderisthenightt/MachineLearning-3rd-project)**
+    - **[Repositories📒](https://github.com/tenderisthenightt/MachineLearning-3rd-project)**
 - Deep Learning Project 
-    - Project  : **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project)** 
+    - **[Repositories📗](https://github.com/tenderisthenightt/DeepLearning-4th-project)** 
 - Final Project 
-    - 1 web : **[Repositories📘](https://github.com/tenderisthenightt/Final_Project_true_final.git)**
-    - 2 model : **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
+    - web  **[Repositories📘](https://github.com/tenderisthenightt/Final_Project_true_final.git)**
+    - model  **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
 
 ### Activity/education history
 - domain knowledge
