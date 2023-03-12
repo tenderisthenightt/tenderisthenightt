@@ -25,6 +25,7 @@
     - web **[Repositories📘](https://github.com/tenderisthenightt/Final_Project_true_final.git)**
     - model **[Repositories📘](https://github.com/tenderisthenightt/Final_test.git)**
 
+
 ### Activity/education history
 - domain knowledge
     - programming language
