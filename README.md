@@ -57,4 +57,3 @@
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-%23FA0F00.svg?flat-square&logo=jupyter&logoColor=white)
 
-
